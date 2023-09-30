@@ -8,7 +8,8 @@ import (
 	"reflect"
 	"testing"
 	"time"
-	"typedcsv"
+
+	"github.com/hoshiumiarata/typedcsv"
 )
 
 func TestReadHeader(t *testing.T) {

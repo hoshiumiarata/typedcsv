@@ -6,7 +6,8 @@ import (
 	"errors"
 	"testing"
 	"time"
-	"typedcsv"
+
+	"github.com/hoshiumiarata/typedcsv"
 )
 
 func TestWriteHeader(t *testing.T) {

@@ -3,7 +3,8 @@ package typedcsv_test
 import (
 	"errors"
 	"testing"
-	"typedcsv"
+
+	"github.com/hoshiumiarata/typedcsv"
 )
 
 func TestFieldParseError(t *testing.T) {
