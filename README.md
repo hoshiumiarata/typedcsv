@@ -2,7 +2,7 @@
 
 This package provides functionality for reading and writing CSV files with structs.
 It supports multiple tags to customize the behavior of the CSV reader and writer, as well as TextMarshaler/TextUnmarshaler interfaces.
-Check out documentation of TypedCSVReader/TypedCSVWriter for more information.
+Check out [documentation](https://pkg.go.dev/github.com/hoshiumiarata/typedcsv) of TypedCSVReader/TypedCSVWriter for more information.
 
 ## Examples
 
